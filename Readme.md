@@ -6,6 +6,8 @@ This project focuses on analyzing inventory and supply chain performance for a m
 
 The solution uses **Power BI**, structured data modelling, and DAX calculations to provide an interactive dashboard that supports inventory decision-making.
 
+https://app.powerbi.com/groups/me/reports/0228d6f1-1bfa-4fb5-9085-c14c0b03b1b2/0560271c53c669b9bbf1?experience=power-bi
+
 ---
 
 ## 🚨 Business Problem
